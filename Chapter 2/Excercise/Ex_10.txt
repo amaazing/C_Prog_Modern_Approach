@@ -1,0 +1,2 @@
+The space between int and main.
+The space between return and 0.

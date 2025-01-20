@@ -1,0 +1,4 @@
+100_bottles: Not a legal C identifier as it starts with a digit.
+_100_bottles: legal
+one__hundred__bottles: legal
+bottles_by_the_hundred_: legal

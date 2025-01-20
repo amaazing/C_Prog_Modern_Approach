@@ -1,0 +1,1 @@
+Adjacent underscores can be difficult to tell apart, leading to potential issues when coding (such as mistakenly only puttin one underscore).

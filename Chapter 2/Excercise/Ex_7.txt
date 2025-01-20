@@ -1,0 +1,5 @@
+for: keyword
+If: Not a keyword due to capitalization
+main: Not a keyword
+printf: Not a keyword
+while: keyword
